@@ -11,7 +11,7 @@ public class Ogretmen implements Memur {
 	@Override
 	public void calis() {
 		
-		System.out.println("Öğretmen olarak " + gorev.gorevVer() + " çalışılmaktadır.");
+		System.out.println("Öğretmen olarak " + gorev.gorevVer() + " çalışmaktadır.");
 
 	}
 
